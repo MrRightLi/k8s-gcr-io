@@ -18,3 +18,5 @@ docker tag mrright/kube-proxy:1.12.0 k8s.gcr.io/kube-proxy:v1.12.0
 docker tag mrright/coredns:1.2.2 k8s.gcr.io/coredns:1.2.2
 docker tag mrright/pause:3.1 k8s.gcr.io/pause:3.1
 docker tag mrright/etcd:3.2.24 k8s.gcr.io/etcd:3.2.24
+
+
